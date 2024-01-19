@@ -29,7 +29,7 @@ You need to have the following installed on your machine
 1. Clone the repository
 
 ```bash
-git clone 
+git clone git@github.com:kenjitagawa/instagram.git
 ```
 
 2. Run the project on Xcode
