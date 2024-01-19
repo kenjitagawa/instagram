@@ -11,7 +11,9 @@ This is a clone of Instagram where I utilized a Figma Design in order to get the
 - HStack
 - System Icons (SF Symbols)
 
-<img src="images/instagram_clone_screenshot.jpg" width="150">
+<p align="center">
+    <img src="images/instagram_clone_screenshot.jpg" width="150">
+</p>
 
 ## Getting Started
 
