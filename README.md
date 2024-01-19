@@ -1,10 +1,6 @@
 # Instagram
 
-This is a clone of Instagram where I utilized a Figma Design in order to get the assets and the measurements. This was built using SwiftUI. 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+This is a clone of Instagram where I utilized a Figma Design in order to get the assets and the measurements. This was built using SwiftUI and allows for the user to scroll through the feed, and scroll through the stories. There is no functionality to this app other than the UI (maybe I will do something to it later).
 
 ## SwiftUI Building Blocks Used
 
@@ -14,6 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 - VStack 
 - HStack
 - System Icons (SF Symbols)
+
+<img src="images/instagram_clone_screenshot.jpg" width="150">
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
